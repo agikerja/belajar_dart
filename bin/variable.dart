@@ -28,5 +28,5 @@ void main() {
 
 String getValue() {
   print('getValue() dipanggil');
-  return 'agi';
+  return 'agi'; //nilai balikan
 }
